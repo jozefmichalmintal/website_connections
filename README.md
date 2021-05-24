@@ -33,4 +33,4 @@ python website_connections.py --domain alza.sk --graph alza.gexf --apikey API_KE
 
 ## show results
 
-It can be use app Gephi. Script writes an output file with suffix gexf . That can be loaded to the Gephi.
+Script writes an output file with suffix gexf . File can be loaded to Gephi.
