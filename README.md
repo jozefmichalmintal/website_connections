@@ -7,10 +7,10 @@ Web crawler tool for seeking sites with the same operator.
 ### requirements
 
 - python 2.7.10
-- dependendences from requirements
+- dependendences from requirements and tools
 - API account (api key) at api.spyonweb.com 
 
-###requirements
+### requirements
 beautifulsoup4==4.6.3
 certifi==2018.10.15
 chardet==3.0.4
