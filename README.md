@@ -10,6 +10,22 @@ Web crawler tool for seeking sites with the same operator.
 - dependendences from requirements
 - API account (api key) at api.spyonweb.com 
 
+####requirements
+beautifulsoup4==4.6.3
+certifi==2018.10.15
+chardet==3.0.4
+Click==7.0
+decorator==4.3.0
+Flask==1.0.2
+idna==2.7
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+networkx==2.2
+requests==2.20.1
+urllib3==1.24.1
+Werkzeug==0.14.1
+
 ### install environment
 
 ```bash
