@@ -1,6 +1,5 @@
 # website_connections
-# OPINT
-Web crawler tool for seeking sites with the same owner.
+Web crawler tool for seeking sites with the same operator.
 
 
 ## instalation
@@ -31,8 +30,6 @@ or
 python website_connections.py --domain alza.sk --graph alza.gexf --apikey API_KEY --wayback 2
 ```
 
-
-password: opint8
 
 ## show results
 
