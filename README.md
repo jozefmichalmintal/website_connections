@@ -7,7 +7,7 @@ Web crawler tool for seeking sites with the same operator.
 ### requirements
 
 - python 2.7.10
-- dependendences from reque and tools
+- dependendencies from reque and tools
 - API account (api key) at api.spyonweb.com 
 
 ### reque
