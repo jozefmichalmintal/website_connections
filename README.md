@@ -1,5 +1,5 @@
 # website_connections
-Web crawler tool for seeking sites with the same operator.
+Web crawler tool for seeking websites with the same operator.
 
 
 ## instalation
